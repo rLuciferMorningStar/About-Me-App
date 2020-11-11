@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">About Me App</string>
+    <string name="name">Rajeshwar Singh</string>
+    <string name="yellowStar">"Yellow Star"</string>
+    <string name="bio">"My name is Raje.
+        \n\n Long text
+        \n\n Long text
+        \n\n Long text
+        \n\n Long text
+        \n\n Long text
+        \n\n Long text
+        \n\n Long text"
+    </string>
+    <string name="nickname">Nickname</string>
+    <string name="nicknameHint">What is your Nickname?</string>
+    <string name="done">Done</string>
 </resources>
